@@ -20,3 +20,10 @@ Cargo.lock
 
 # don't commit .env files
 .env
+
+
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target
